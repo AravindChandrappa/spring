@@ -23,6 +23,7 @@ public class Hotel {
 		if(itemList.contains(item))
 		{
 			System.out.println("Item is available u can take order");
+			System.out.println("Item is available u can take order");
 			System.out.println("Customer ordered:\t"+item+"\t"+qty);
 
 			int totalPrice=qty*price;
