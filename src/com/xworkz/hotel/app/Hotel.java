@@ -31,6 +31,7 @@ public class Hotel {
 		else
 		{
 			System.out.println("Item is closed, try with other items");
+			System.out.println();
 		}
 		return 0;
 		
